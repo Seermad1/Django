@@ -1,1 +1,1 @@
-Zuri 
+Zuri Django setup task
